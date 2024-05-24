@@ -3,6 +3,11 @@
     margin: 10px;
     margin-bottom: 500px;
 }
+
+.table
+{
+  overflow: scroll;
+}
 @media screen and (max-width: 900px){
     #charts_page_div{
         display: grid;
