@@ -29,7 +29,7 @@ const ChartsAndMaps = () => {
   const [chartData, setChartData] = useState({});
   const [countryData, setCountryData] = useState([]);
   const [worldWideData, setWorldWideData] = useState({});
-  const [windWidth, setWindwidth] = useState({ wid: window.innerWidth });
+  // const [windWidth, setWindwidth] = useState({ wid: window.innerWidth });
 
   const fetchCountryData = async () => {
     const res = await axios.get('https://disease.sh/v3/covid-19/countries');

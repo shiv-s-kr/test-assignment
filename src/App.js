@@ -1,6 +1,6 @@
 import './App.css';
 import Routers from './Routes/Routers';
-import Contacts from './components/Contacts';
+// import Contacts from './components/Contacts';
 
 function App() {
   return (
