@@ -102,10 +102,10 @@ const ChartsAndMaps = () => {
 
           <Box>
             <div class="card text-start">
-              <div class="card-body">
+              <div class="card-body table-2">
                 <h4 class="card-title">World Wide</h4>
                 <p class="card-text">
-                  <table className='table table-2'>
+                  <table className='table '>
                     <tr>
                       <th>Today Cases</th>
                       <th>Today Deaths</th>
