@@ -105,7 +105,7 @@ const ChartsAndMaps = () => {
               <div class="card-body">
                 <h4 class="card-title">World Wide</h4>
                 <p class="card-text">
-                  <table className='table'>
+                  <table className='table table-2'>
                     <tr>
                       <th>Today Cases</th>
                       <th>Today Deaths</th>
